@@ -13,3 +13,15 @@ npm i luxon
 npm install -D tailwindcss
 npx tailwindcss init
 npm i react-toastify
+```
+#Running the Application
+
+## To deploy the Weather App on a local server, open a new terminal and enter the following command:
+```bash
+npm run start
+```
+## Video Tutorial
+
+For a detailed walkthrough of the Weather App and its features, check out the following video tutorial: [Weather App Tutorial](https://drive.google.com/drive/u/1/folders/1NRTRBnXPCrBOn82Cp6AeGJC_LP4ucDHm).
+
+
